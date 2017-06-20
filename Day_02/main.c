@@ -3,6 +3,7 @@
 
 int main(void)
 {
+	//abcd test
 	// #7 
 	char fruit[20] = "strawberry";
 	//배열-> 같은 자료형의 집합 
