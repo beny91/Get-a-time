@@ -69,7 +69,7 @@ int main(void)
 	//res = !(a >= 30);
 	//printf("!(a >= 30 : %d\n", res);
 
-	// #6 증감 연산자
+	//// #6 증감 연산자
 
 	//int a = 10, b = 10;
 	//
@@ -90,7 +90,7 @@ int main(void)
 	//printf("전위형 (++a) * 3 = %d\n", pre);
 	//printf("후위형 (b++) * 3 = %d\n", post);
 
-	// #5 산술 연산자
+	////#5 산술 연산자
 	//int a, b;
 	//int sum, sub, mul, inv;
 
@@ -107,17 +107,17 @@ int main(void)
 	//printf("곱셈 : %d\n", mul);
 	//printf("a의 음수연산 : %d\n", inv);
 
-	/*double apple;
-	int banana;
-	int orange;
+	//double apple;
+	//int banana;
+	//int orange;
 
-	apple = 5.0 / 2.0;
-	banana = 5 / 2;
-	orange = 5 % 2;
+	//apple = 5.0 / 2.0;
+	//banana = 5 / 2;
+	//orange = 5 % 2;
 
-	printf("apple : %.1lf\n", apple);
-	printf("banana : %d\n", banana);
-	printf("orange : %d\n", orange);*/
+	//printf("apple : %.1lf\n", apple);
+	//printf("banana : %d\n", banana);
+	//printf("orange : %d\n", orange);
 
 	//// #4 상수
 	//// 1. 리터럴 상수
