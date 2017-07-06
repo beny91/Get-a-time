@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Common.props(150,5): warning MSB4211: "WindowsTargetPlatformVersion" 속성에 처음으로 값이 설정되고 있지만 이미 "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.WindowsSDK.props(29,5)"에서 사용되었습니다.
+Background.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  Shovel Knight.vcxproj -> E:\Shovel Knight_Fin (1)\Debug\Shovel Knight.exe
+  Shovel Knight.vcxproj -> E:\Shovel Knight_Fin (1)\Debug\Shovel Knight.pdb (Full PDB)
